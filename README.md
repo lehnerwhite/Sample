@@ -1,4 +1,4 @@
 # Sample
-This is a repository that contains samples of code that I have written for different purposes. 
+This is a repository that contains a selection of coding samples from past projects. 
 
-The primary files I would recommend looking at are RexRank.ipynb and FacialRecognition/FacialRecNoteook.ipynb.
+Both directories include Jupyter Notebooks with more in depth explanations of the body of each project. These files are FullRexRank/RexRank.ipynb and FacialRecognition/FacialRecNoteook.ipynb.
